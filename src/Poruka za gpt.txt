@@ -1,0 +1,35 @@
+App.jsx: 
+export default function App() {
+  return (
+    <div className="h-screen flex items-center justify-center bg-green-500 text-white text-2xl font-bold">
+      TAILWIND 3.4.1 radi savršeno
+    </div>
+  );
+}
+
+tailwind.config.js:
+
+/** @type {import('tailwindcss').Config} */
+export default {
+  content: [],
+  theme: {
+    extend: {},
+  },
+  plugins: [],
+}
+
+index.css:
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+vite.config.js:
+
+import { defineConfig } from 'vite'
+import react from '@vitejs/plugin-react'
+
+// https://vite.dev/config/
+export default defineConfig({
+  plugins: [react()],
+})
