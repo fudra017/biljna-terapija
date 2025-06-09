@@ -3,12 +3,12 @@ import React, { useState, useEffect } from "react";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 
 import NavBar from './components/NavBar';
-import Home from "./Pages/Home";
-import Kontakt from "./Pages/Kontakt";
-import Login from "./Pages/Login";
-import Analiza from "./Pages/Analiza";
+import Home from "./pages/Home";
+import Kontakt from "./pages/Kontakt";
+import Login from "./pages/Login";
+import Analiza from "./pages/Analiza";
 import ProtectedRoute from "./components/ProtectedRoute";
-import Profil from "./Pages/Profil";
+import Profil from "./pages/Profil";
 
 function App() {
   const [user, setUser] = useState(null);
