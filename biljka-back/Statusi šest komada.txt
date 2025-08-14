@@ -1,0 +1,41 @@
+// 1. Fiziološki status
+fizioloski_status: {
+  vitalne_funkcije: "Dobar",
+  hronicna_stanja: "Srednji",
+  laboratorije: "Loš"
+},
+
+// 2. Nutritivni status
+nutritivni_status: {
+  unos_makronutrijenata: "Dobar",
+  unos_mikronutrijenata: "Srednji",
+  digestivno_zdravlje: "Loš"
+},
+
+// 3. Psihološki faktori
+psiholoski_faktori: {
+  stres_i_anksioznost: "Dobar",
+  emocionalna_stabilnost: "Srednji",
+  mentalna_jacina: "Loš"
+},
+
+// 4. Životni stil i ponašanje
+zivotni_stil: {
+  fizicka_aktivnost: "Dobar",
+  navike_spavanja: "Srednji",
+  zloupotreba_supstanci: "Loš"
+},
+
+// 5. Genetski i porodični faktori
+genetski_faktori: {
+  porodična_istorija: "Dobar",
+  nasledne_bolesti: "Srednji",
+  etnicka_pozadina: "Loš"
+},
+
+// 6. Okruženje i uslovi života
+okruzenje: {
+  zagadjenje_i_toksini: "Dobar",
+  uslovi_stanovanja: "Srednji",
+  socioekonomski_faktori: "Loš"
+}

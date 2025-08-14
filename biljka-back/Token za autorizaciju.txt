@@ -1,0 +1,5 @@
+Token za autorizaciju:
+
+Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9...
+
+SECRET_KEY=tajna_kljuc_za_aplikaciju_123

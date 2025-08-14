@@ -1,0 +1,3 @@
+Znam da nismo doveli do relativno stabilnog kraja rad na biljka-back backendu aplikacije biljna-terapijha ali
+ možemo li da probamo da ostvarimo komunikaciju između trenutne frontend aplikacije , sa njene url adrese i 
+tamo unesemo ime usera koje ćemo detektovati sa backend strana administratora?

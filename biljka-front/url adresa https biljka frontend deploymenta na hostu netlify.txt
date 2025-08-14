@@ -1,0 +1,7 @@
+
+
+https://helpful-semolina-a72bdd.netlify.app/
+
+
+Deployment je išao sa GITHUBA, iz repozitorijuma de sam smestio porebne delove projekta za deployment.
+Ide sve kako treba uz instrukcije chatGPT ja.
